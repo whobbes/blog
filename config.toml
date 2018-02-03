@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://whobbes.com/"
+languageCode = "en-gb"
+title = "Whobbes.com"
+theme = "kiera"
+buildDrafts = false
+canonifyURLs = true
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "../blog"
+pygmentsCodeFences = true
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Wallace"       #Author name
+    github = "whobbes"     #Github username
+    linkedin = "sylvainviguier"   #LinkedIn username
+    twitter = "wallacehobbes"    #Twitter username
+    instagram = "wallacehobbes"  #Instagram username
+
+[params]
+    tagline = "creative scientist"
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+
