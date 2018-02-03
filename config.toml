@@ -1,6 +1,6 @@
 baseURL = "https://whobbes.com/blog/"
 languageCode = "en-gb"
-title = "Whobbes.com"
+title = "Whobbes.com/blog"
 theme = "kiera"
 buildDrafts = false
 canonifyURLs = true
@@ -20,7 +20,7 @@ googleAnalytics = "" #Google Analytics ID
     instagram = "wallacehobbes"  #Instagram username
 
 [params]
-    tagline = "creative scientist"
+    tagline = "<- Home"
 
 [taxonomies]
 	category = "categories"
