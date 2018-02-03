@@ -1,4 +1,4 @@
-baseURL = "https://whobbes.com/"
+baseURL = "https://whobbes.com/blog/"
 languageCode = "en-gb"
 title = "Whobbes.com"
 theme = "kiera"
@@ -7,7 +7,7 @@ canonifyURLs = true
 
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "../blog"
+publishDir = "../whobbes.github.io/blog"
 pygmentsCodeFences = true
 disqusShortname = "" #Disqus shortname
 googleAnalytics = "" #Google Analytics ID
