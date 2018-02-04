@@ -4,6 +4,7 @@ title = "Whobbes.com/blog"
 theme = "kiera"
 buildDrafts = false
 canonifyURLs = true
+copyright = "Copyright &copy; Wallace Hobbes. All rights reserved."
 
 contentDir = "content"
 layoutDir = "layouts"
@@ -18,9 +19,10 @@ googleAnalytics = "" #Google Analytics ID
     linkedin = "sylvainviguier"   #LinkedIn username
     twitter = "wallacehobbes"    #Twitter username
     instagram = "wallacehobbes"  #Instagram username
+    home = "http://whobbes.com"
 
 [params]
-    tagline = "<- Home"
+    tagline = "Creative Scientist"
 
 [taxonomies]
 	category = "categories"
