@@ -1,0 +1,3 @@
+[submodule "themes/kiera"]
+	path = themes/kiera
+	url = https://whobbes@github.com/whobbes/hugo-kiera.git
