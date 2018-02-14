@@ -1,4 +1,4 @@
-baseURL = "https://whobbes.com/blog/"
+baseURL = "http://whobbes.com/blog/"
 languageCode = "en-gb"
 title = "Whobbes.com/blog"
 theme = "kiera"
@@ -10,8 +10,7 @@ contentDir = "content"
 layoutDir = "layouts"
 publishDir = "../whobbes.github.io/blog"
 pygmentsCodeFences = true
-disqusShortname = "" #Disqus shortname
-googleAnalytics = "" #Google Analytics ID
+googleAnalytics = "UA-110844503-1"
 
 [author]
     name = "Wallace"       #Author name
