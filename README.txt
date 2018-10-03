@@ -1,6 +1,6 @@
 This describe the steps to create content for my Hugo Blog:
 
-1. cd hugo blog
+1. cd blog
 
 2. hugo new posts/[title].md
 
