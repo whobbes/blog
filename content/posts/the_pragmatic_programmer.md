@@ -7,7 +7,7 @@ tags = ["Review", "Book", "Programming"]
 
 {{< figure src="/images/book_pragmatic_programmer.jpg"  class="sml" width="50">}}
 
-Book by Andy Hunt and Dave Thomas about programing written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.
+Book by Andy Hunt and Dave Thomas about programming written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.
 
 <kbd>76%</kbd>
 
@@ -21,7 +21,7 @@ Book by Andy Hunt and Dave Thomas about programing written in 1999 and part of t
 * DRY
 	* Don't repeat yourself
 	* One piece of data should only be declared once
-	* If not practical in code, can have script to extract data from XML/JSON/TXT and populate code structures rather can copy and risk having several unlinked representations that break when the code change
+	* If not practical in code, can have script to extract data from XML/JSON/TXT and populate code structures rather than copy and risk having several unlinked representations that break when the code change
 	* ME --> Opposite could be WET: Write Everything Twice
 
 * Pub/Sub
