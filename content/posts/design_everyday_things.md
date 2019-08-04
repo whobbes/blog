@@ -1,18 +1,17 @@
 +++
 title = "The Design of Everyday Things"
 date = 2019-08-04T12:37:02+01:00
-draft = true
+draft = false
 tags = ["Review", "Book", "Design"]
 +++
 
 {{< figure src="/images/book_design_everyday_things.jpg"  class="sml" width="50">}}
 
-**This book by Dan Norman is part of the classics of design and its first edition was in 1988, with a updated version in 2004?**
+This book by Donald A. Norman is part of the classics of design with a first edition in 1988 and a updated version in 2013.
 
 Many strong concepts such as affordances and signifiers are defined here and the point of view is very much oriented towards function over form,  which can be a debatable stance. The emphasis of the book is that simple interactions are difficult to create and one way to to so is to embrace user-centered design.
 
-The book then finishes by an reflex ion on the inclusion of emotions in the process; Dan explored it further in a [TED talk](google.com). Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes on creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.
-
+The book closes on an discussion of the inclusion of emotions in the process; Dan explored it further in a [TED talk](google.com). Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes towards creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.
 
 <kbd>88%</kbd>
 
@@ -63,5 +62,6 @@ The book then finishes by an reflex ion on the inclusion of emotions in the proc
 * Technology often a drive for change but cycle longer than expected e. g. 30 years for multi-touch screens
 * Incremental change lead to maxima but how to know if local or global?
 * Radical innovation lead to a random hill, how to know if it is big enough?
-* **Keyboards are the fastest way to input words and text fastest to output (300 words per min. vs. 60 for audio)**
+* Voice is the fastest way to input words (about 150wpm vs. 90wpm for typing and less than 20wpm for hand-writing)
+* Text is the fastest to output (300wpm vs. 150wpm for audio)
 * Where is the next big change? Look at fundamental needs, food, shelter, relation, leisure, health.
