@@ -2,7 +2,7 @@
 title = "How to create a mind"
 date = 2018-10-03T21:31:57+01:00
 draft = false
-tags = ["Review", "Book", "Brain"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_how_to_create_a_mind.jpg"  class="sml" width="50">}}

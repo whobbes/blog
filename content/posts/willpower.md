@@ -2,7 +2,7 @@
 title ="Willpower"
 date = 2018-09-27T21:01:12+01:00
 draft = false
-tags = ["Review", "Book", "Psychology"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_willpower.jpg"  class="sml" width="50">}}

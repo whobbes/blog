@@ -2,7 +2,7 @@
 title = "The Design of Everyday Things"
 date = 2019-08-04T12:37:02+01:00
 draft = false
-tags = ["Review", "Book", "Design"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_design_everyday_things.jpg"  class="sml" width="50">}}

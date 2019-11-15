@@ -2,7 +2,7 @@
 title = "Weapons of Maths Destruction"
 date = 2018-02-03T21:28:28Z
 draft = false
-tags = ["Review", "Book", "Data Science"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_weapons_maths_destructions.jpg"  class="sml" width="50">}}

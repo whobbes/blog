@@ -2,7 +2,7 @@
 title = "The Golden Age"
 date = 2018-06-29T21:07:01+02:00
 draft = false
-tags = ["Review", "Book", "Science Fiction"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_the_golden_age.jpg"  class="sml" width="50">}}

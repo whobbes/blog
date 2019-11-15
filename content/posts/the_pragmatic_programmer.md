@@ -2,7 +2,7 @@
 title = "The Pragmatic Programmer"
 date = 2019-04-13T13:21:30+01:00
 draft = false
-tags = ["Review", "Book", "Programming"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_pragmatic_programmer.jpg"  class="sml" width="50">}}

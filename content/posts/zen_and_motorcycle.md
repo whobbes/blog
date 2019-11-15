@@ -2,7 +2,7 @@
 title = "Zen And The Art of Motorcycle Maintenance"
 date = 2019-02-02T11:58:50Z
 draft = false
-tags = ["Review", "Book", "Engineering"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg"  class="sml" width="50">}}

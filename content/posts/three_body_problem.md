@@ -2,7 +2,7 @@
 title = "The Three-Body Problem"
 date = 2019-03-03T17:56:24Z
 draft = false
-tags = ["Review", "Book", "Science Fiction"]
+tags = ["Book review"]
 +++
 
 {{< figure src="/images/book_three_body_problem.jpg"  class="sml" width="50">}}
