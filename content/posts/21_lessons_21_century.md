@@ -7,7 +7,11 @@ tags = ["Book Review"]
 
 {{< figure src="/images/book_21_lessons_21_century.jpg"  class="sml" width="50">}}
 
-Yuval Noah Harari was famous for  Sapiens about the past, then Homo Deus about the future and now focus on the present. Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author's main ideas easy to remember. Special mention for the effort of the author on being impartial where possible and focusing on important and difficult questions to ask rather than falling in the trap of the easy fix for everything.
+Yuval Noah Harari was famous for  Sapiens about the past, then Homo Deus about the future and now focus on the present.
+
+Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author's main ideas easy to remember.
+
+Special mention for the effort of the author on being impartial where possible and focusing on presenting important and difficult questions to ask and not making speculations on potential solutions.
 
 <kbd>63%</kbd>
 
