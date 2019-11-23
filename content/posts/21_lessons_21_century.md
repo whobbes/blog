@@ -1,7 +1,7 @@
 +++
 title = "21 Lessons for the 21st Century"
 date = 2019-11-22T22:17:14Z
-draft = true
+draft = false
 tags = ["Book Review"]
 +++
 
