@@ -10,7 +10,6 @@ contentDir = "content"
 layoutDir = "layouts"
 publishDir = "../whobbes.github.io/blog"
 pygmentsCodeFences = true
-googleAnalytics = "UA-110844503-1"
 
 [author]
     name = "Wallace"       #Author name
