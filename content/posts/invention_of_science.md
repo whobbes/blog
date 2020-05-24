@@ -1,5 +1,5 @@
 +++
-title = "The invention of Science"
+title = "The Invention of Science"
 date = 2020-05-24T14:06:33+01:00
 draft = false
 tags = ["Book review"]
