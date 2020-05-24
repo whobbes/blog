@@ -11,12 +11,15 @@ layoutDir = "layouts"
 publishDir = "../whobbes.github.io/blog"
 pygmentsCodeFences = true
 
+paginate = 1000 # Number of items in posts list
+enableEmoji = true
+
 [author]
-    name = "Wallace"       #Author name
-    github = "whobbes"     #Github username
-    linkedin = "sylvainviguier"   #LinkedIn username
-    twitter = "wallacehobbes"    #Twitter username
-    instagram = "wallacehobbes"  #Instagram username
+    name = "Wallace"       # Author name
+    github = "whobbes"     # Github username
+    linkedin = "sylvainviguier"   # LinkedIn username
+    twitter = "wallacehobbes"    # Twitter username
+    instagram = "wallacehobbes"  # Instagram username
     home = "http://whobbes.com"
 
 [params]
