@@ -20,7 +20,7 @@ A simple hugo blog
 
 8. Put draft to `false` and generate `hugo`
 
-9. replace http to https in blog/index.html
+9. Replace http to https everywhere!
 
 10. Push to blog and newly created static content to whobbes.github.io
 
