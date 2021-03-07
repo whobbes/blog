@@ -118,7 +118,7 @@ I have amassed more notes than usual so grouping them in four sub-topics, skip t
   * No large meal in the evening
   * No sleeping pills
   * No nap after 3PM
-  * Relax without screen before bed
+  * Relax without screen 1h before sleep
   * Hot bath helps lowering core temperature
   * Dark room, cool, gadget free, silence, no clock
   * 30-60 bright sunlight early in the day, low light in the evening
